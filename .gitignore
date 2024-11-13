@@ -56,4 +56,11 @@ libtool
 */.deps
 stamp-h1
 /src/love
-/src/tags
+
+tags
+*.tags
+
+GTAGS
+GRTAGS
+GPATH
+gtags.files
